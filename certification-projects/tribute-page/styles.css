@@ -1,0 +1,59 @@
+h1{
+    text-align:center;
+    font-size:4rem;
+    font-weight:800;
+    }
+    
+    p{
+    text-align:center;
+    margin:-25px 0;
+    display:block;
+    margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
+    
+    #image{
+      max-width:100%;
+      display:block;
+      height:auto;
+      margin: 0 auto;
+    }
+    #img-div{
+      overflow-clip-margin: content-box;
+        overflow: clip;
+        background: #A5B2B5;
+        padding:10px;
+    }
+    
+    #img-caption{
+      display:block;
+      margin:1em;
+      padding:10px;
+      font-size:1.2rem;
+      text-align:center;
+    }
+    h2{
+      text-align:center;
+      margin:1em;
+      padding:1em;
+    }
+    li{
+      padding:5px;
+      margin:1em;
+      justify-content:ceer;
+      font-size:1.2rem;
+    }
+    .info{
+      font-style:italic;
+      margin:3rem;
+      font-size:1.2rem;
+    }
+    
+    
+    h3{
+      font-weight:bold;
+      margin:1em;
+      text-align:center;
+    }

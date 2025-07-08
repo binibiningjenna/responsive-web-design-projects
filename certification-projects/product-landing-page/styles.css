@@ -1,0 +1,115 @@
+@media only screen and (max-width:1980px){
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      font-family:sans-serif;
+      background-color:#fdf4;
+    }
+    header {
+      width: 100%;
+      height: 50px;
+      background-color: #1b1b32;
+      display:flex;         justify-content:space-between;
+      align-items:center;
+      position: fixed;
+      top: 0;
+  }
+  #header-img {
+      width: max(100px, 18vw);
+      height:35px;
+      padding: 0.4rem;
+  }
+  nav {
+      width: 100%;
+      max-width: 490px;
+      height: 50px;
+    }
+  nav > ul {
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    align-items:center;
+    height: 100%;
+    padding-inline-start: 0;
+    margin-block: 0;
+    padding-right:50px;
+    }
+    nav > ul > li {
+      font-size:20px;
+      display:block;
+      color:white;
+    }
+    nav > ul > li:hover {
+      background-color: #dfdfe2;
+      color: #1b1b32;
+      cursor: pointer;
+    }
+    li > a {
+      color:inherit;
+      text-decoration:none;
+    }
+    h1 {
+      font-size:300%;
+      margin: 70px 50px 10px 50px;
+      text-align:center;
+    }
+    form {
+      text-align:center;
+    }
+    #email {
+      font-size:100%;
+      width:20%;
+    }
+    button {
+      margin:20px;
+      font-size:120%;
+      font-weight:bold;
+      padding:5px;
+      background-color:orange;
+    }
+    #features {
+      text-align:justify;
+      padding:40px;
+      font-size:150%;
+    }
+    #how-it-works {
+      text-align:center;
+      margin-bottom:20px;
+    }
+    #video{
+      width: max (1000px, 18vw);
+      min-width:560px;
+      height:315px;
+    }
+    #pricing {
+      display:flex;
+      flex-wrap:wrap;
+      justify-content:center;
+      margin:20px;
+  
+    }
+    .column1, .column2, .column3 {
+      border:3px solid black;
+      border-radius:10px;
+      width: max(350px, 18vw);
+      margin:10px;
+      margin-top:50px;
+      font-size:150%;
+      padding-top:0;
+      background-color: #F5F5bc
+    }
+    .price-title {
+      background-color:#C2B280;
+      padding:10px;
+      margin-top:0;
+    }
+    #submit {
+      font-size:130%;
+      min-width:30%;
+      width:max (350px, 30vw);
+      padding:10px;
+      background-color:#dc3;
+    }
+    
+  }

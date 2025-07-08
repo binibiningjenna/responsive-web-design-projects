@@ -12,13 +12,14 @@ The repo is organized into two sections:
 
 These are the 5 projects submitted to earn the certification:
 
-| Project | Folder |
-|--------|--------|
-| 🏛️ Tribute Page | `/certification-projects/tribute-page` |
-| 📋 Survey Form | `/certification-projects/survey-form` |
-| 🛍️ Product Landing Page | `/certification-projects/product-landing-page` |
-| 📚 Technical Documentation Page | `/certification-projects/technical-doc-page` |
-| 💼 Personal Portfolio Webpage | `/certification-projects/personal-portfolio` |
+| Project | Live Preview |
+|--------|--------------|
+| 🏛️ Tribute Page | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/certification-projects/tribute-page/) |
+| 📋 Survey Form | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/certification-projects/survey-form/) |
+| 🛍️ Product Landing Page | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/certification-projects/product-landing-page/) |
+| 📚 Technical Documentation Page | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/certification-projects/technical-doc-page/) |
+| 💼 Personal Portfolio Webpage | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/certification-projects/personal-portfolio/) |
+
 
 Each folder contains the HTML and CSS files for that project.
 
@@ -28,21 +29,22 @@ Each folder contains the HTML and CSS files for that project.
 
 These are hands-on HTML/CSS mini projects completed while going through the curriculum. While not required for certification, they helped reinforce layout, design, and semantic HTML concepts.
 
-| Project                      | Folder Path                             |
-|-----------------------------|------------------------------------------|
-| 🐱 Cat Photo App             | `/practice-projects/cat-photo-app`       |
-| ☕ Cafe Menu                 | `/practice-projects/cafe-menu`           |
-| 🧃 Nutrition Label           | `/practice-projects/nutrition-label`     |
-| 🏙️ City Skyline             | `/practice-projects/city-skyline`        |
-| 🐱 Cat Painting              | `/practice-projects/cat-painting`        |
-| 🖌️ Rothko Painting          | `/practice-projects/rothko-painting`     |
-| 🧱 Balance Sheet             | `/practice-projects/balance-sheet`       |
-| 🎨 Color Markers             | `/practice-projects/color-markers`       |
-| 🎹 Piano                     | `/practice-projects/piano`               |
-| 🎡 Ferris Wheel              | `/practice-projects/ferris-wheel`        |
-| 🐧 Penguin                   | `/practice-projects/penguin`             |
-| 🖼️ Photo Gallery            | `/practice-projects/photo-gallery`       |
-| 📖 Magazine                  | `/practice-projects/magazine`            |
+| Project                      | Live Preview |
+|-----------------------------|--------------|
+| 🐱 Cat Photo App             | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/cat-photo-app/) |
+| ☕ Cafe Menu                 | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/cafe-menu/) |
+| 🧃 Nutrition Label           | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/nutrition-label/) |
+| 🏙️ City Skyline             | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/city-skyline/) |
+| 🐱 Cat Painting              | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/cat-painting/) |
+| 🖌️ Rothko Painting          | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/rothko-painting/) |
+| 🧱 Balance Sheet             | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/balance-sheet/) |
+| 🎨 Color Markers             | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/color-markers/) |
+| 🎹 Piano                     | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/piano/) |
+| 🎡 Ferris Wheel              | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/ferris-wheel/) |
+| 🐧 Penguin                   | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/penguin/) |
+| 🖼️ Photo Gallery            | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/photo-gallery/) |
+| 📖 Magazine                  | [View Live](https://binibiningjenna.github.io/responsive-web-design-projects/practice-projects/magazine/) |
+
 
 
 ## 🛠️ Tech Stack
